@@ -5,6 +5,7 @@ If you find this guide helpful, I'd appreciate you [using my referral link](http
 
 This is a guide for buying, taking delivery of, and owning a Tesla Model 3 or Model Y.
 
+
 Just looking for a delivery checklist?
 -  Check the [mobile app for iOS and Android](https://teslaprep.glideapp.io).
 -  Or jump to the text files:
